@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+title: 我的个人博客
+description: 这是我的个人博客，分享我的想法和项目。
+theme: minima
+author:
+  name: 你的名字
+  email: your.email@example.com
+  github: yourusername
+url: "https://yourusername.github.io/my-blog"
